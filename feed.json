@@ -469,41 +469,6 @@
     "condition": "new"
   },
   {
-    "product_id": "57479011762524",
-    "title": "Saikyo Jump Summit War Power Pack Japanisch",
-    "description": "Saikyo Jump Summit War Power Pack mit One Piece Promo-Karten, japanische Originalausgabe, neu und ungeoeffnet.\n\nDirektimport aus Japan.\nVersand aus der Schweiz: versichert und getrackt.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/01_saikyo_jump.jpg?v=1779102312"
-    ],
-    "price": "3990",
-    "stock": "3",
-    "specification": {
-      "category": "Sammeln & Seltenes / Trading Cards",
-      "product_type": "Sammelkarten",
-      "attributes": [
-        {
-          "name": "Marke",
-          "value": [
-            "Bandai"
-          ]
-        },
-        {
-          "name": "Spiel",
-          "value": [
-            "One Piece Card Game"
-          ]
-        },
-        {
-          "name": "Sprache",
-          "value": [
-            "Japanisch"
-          ]
-        }
-      ]
-    },
-    "condition": "new"
-  },
-  {
     "product_id": "57479011893596",
     "title": "One Piece Magazine Vol.21 Heroines mit Promo Karte",
     "description": "One Piece Magazine Vol.21 Heroines inklusive Promo-Karte, japanische Originalausgabe, neu.\n\nDirektimport aus Japan.\nVersand aus der Schweiz: versichert und getrackt.",
@@ -583,7 +548,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00079.jpg?v=1779286083"
     ],
     "price": "6490",
-    "stock": "20",
+    "stock": "19",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
