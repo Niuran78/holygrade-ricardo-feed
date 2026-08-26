@@ -679,5 +679,41 @@
       ]
     },
     "condition": "new"
+  },
+  {
+    "product_id": "58143843451228",
+    "title": "One Piece OP-17 Booster Display Japanisch Sealed",
+    "description": "Original japanische(s) Booster Display (24 Packs) — One Piece Card Game, fabrikneu und versiegelt.\n\nDirektimport aus Japan, geprueft.\nVersand aus der Schweiz: doppelt verpackt, versichert und getrackt.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-op17-front.png?v=1784125460",
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-op17-preorder-live.png?v=1784124705"
+    ],
+    "price": "19990",
+    "stock": "13",
+    "specification": {
+      "category": "Sammeln & Seltenes / Trading Cards",
+      "product_type": "Sammelkarten",
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Bandai"
+          ]
+        },
+        {
+          "name": "Spiel",
+          "value": [
+            "One Piece Card Game"
+          ]
+        },
+        {
+          "name": "Sprache",
+          "value": [
+            "Japanisch"
+          ]
+        }
+      ]
+    },
+    "condition": "new"
   }
 ]
