@@ -224,7 +224,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00075.jpg?v=1779286065"
     ],
     "price": "8490",
-    "stock": "96",
+    "stock": "91",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -331,7 +331,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/a57c607a225ad587411bba73dc672b38_584f1fa0-8d21-4aa5-979e-d99a5d7fed18.png?v=1782375958"
     ],
     "price": "14990",
-    "stock": "9",
+    "stock": "8",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -406,7 +406,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade_placeholder_v2_kurts-card-care-kit-kartenreinigung-pflege.png?v=1778796266"
     ],
     "price": "5990",
-    "stock": "5",
+    "stock": "4",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -704,6 +704,42 @@
           "name": "Spiel",
           "value": [
             "One Piece Card Game"
+          ]
+        },
+        {
+          "name": "Sprache",
+          "value": [
+            "Japanisch"
+          ]
+        }
+      ]
+    },
+    "condition": "new"
+  },
+  {
+    "product_id": "58896330817884",
+    "title": "Pokémon M6a – 30th Celebration – Booster Display JP",
+    "description": "Original japanische(s) Booster Display (24 Packs) — Pokémon, fabrikneu und versiegelt.\n\nDirektimport aus Japan, geprueft.\nVersand aus der Schweiz: doppelt verpackt, versichert und getrackt.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-pk30-30th-celebration-display-front.png?v=1788255600",
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-pk30-30th-celebration-booster.png?v=1788255600"
+    ],
+    "price": "27990",
+    "stock": "10",
+    "specification": {
+      "category": "Sammeln & Seltenes / Trading Cards",
+      "product_type": "Sammelkarten",
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "The Pokémon Company"
+          ]
+        },
+        {
+          "name": "Spiel",
+          "value": [
+            "Pokémon"
           ]
         },
         {
