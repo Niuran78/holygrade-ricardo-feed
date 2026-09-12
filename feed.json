@@ -79,7 +79,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/op-07-display-front_3fc33324-10b7-461d-816d-d99ca60041bf.jpg?v=1780047792",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/op-07-display-back_bc5ccf32-f693-492f-a02f-f6b6cd43143d.jpg?v=1780047792"
     ],
-    "price": "13490",
+    "price": "15390",
     "stock": "12",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -115,7 +115,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00072.jpg?v=1779286052",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00073.jpg?v=1779286056"
     ],
-    "price": "18990",
+    "price": "21790",
     "stock": "6",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -151,7 +151,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00066_4b7213b8-cb7a-48ca-b15b-2d53572c9c2f.jpg?v=1780310442",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00067_289401bd-a693-4229-b5b2-096adc380d7b.jpg?v=1780310442"
     ],
-    "price": "11490",
+    "price": "11890",
     "stock": "12",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -187,8 +187,8 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00070.jpg?v=1779286042",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00071.jpg?v=1779286047"
     ],
-    "price": "16990",
-    "stock": "6",
+    "price": "11890",
+    "stock": "4",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -223,7 +223,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00074.jpg?v=1779286061",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00075.jpg?v=1779286065"
     ],
-    "price": "8790",
+    "price": "8890",
     "stock": "90",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -295,43 +295,8 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00089.jpg?v=1779286105",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00091.jpg?v=1779286109"
     ],
-    "price": "9490",
+    "price": "7390",
     "stock": "12",
-    "specification": {
-      "category": "Sammeln & Seltenes / Trading Cards",
-      "product_type": "Sammelkarten",
-      "attributes": [
-        {
-          "name": "Marke",
-          "value": [
-            "Bandai"
-          ]
-        },
-        {
-          "name": "Spiel",
-          "value": [
-            "One Piece Card Game"
-          ]
-        },
-        {
-          "name": "Sprache",
-          "value": [
-            "Japanisch"
-          ]
-        }
-      ]
-    },
-    "condition": "new"
-  },
-  {
-    "product_id": "56586800365916",
-    "title": "One Piece EB-05 Booster Display Japanisch Sealed",
-    "description": "Original japanische(s) Booster Display (24 Packs) — One Piece Card Game, fabrikneu und versiegelt.\n\nDirektimport aus Japan, geprueft.\nVersand aus der Schweiz: doppelt verpackt, versichert und getrackt.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/a57c607a225ad587411bba73dc672b38_584f1fa0-8d21-4aa5-979e-d99a5d7fed18.png?v=1782375958"
-    ],
-    "price": "14990",
-    "stock": "8",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -406,7 +371,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade_placeholder_v2_kurts-card-care-kit-kartenreinigung-pflege.png?v=1778796266"
     ],
     "price": "5990",
-    "stock": "4",
+    "stock": "3",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -504,41 +469,6 @@
     "condition": "new"
   },
   {
-    "product_id": "57479011893596",
-    "title": "One Piece Magazine Vol.21 Heroines mit Promo Karte",
-    "description": "One Piece Magazine Vol.21 Heroines inklusive Promo-Karte, japanische Originalausgabe, neu.\n\nDirektimport aus Japan.\nVersand aus der Schweiz: versichert und getrackt.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/04_magazine021.jpg?v=1779102328"
-    ],
-    "price": "3990",
-    "stock": "36",
-    "specification": {
-      "category": "Sammeln & Seltenes / Trading Cards",
-      "product_type": "Sammelkarten",
-      "attributes": [
-        {
-          "name": "Marke",
-          "value": [
-            "Bandai"
-          ]
-        },
-        {
-          "name": "Spiel",
-          "value": [
-            "One Piece Card Game"
-          ]
-        },
-        {
-          "name": "Sprache",
-          "value": [
-            "Japanisch"
-          ]
-        }
-      ]
-    },
-    "condition": "new"
-  },
-  {
     "product_id": "57571654435164",
     "title": "One Piece EB-03 Booster Display Japanisch Sealed",
     "description": "Original japanische(s) Booster Display (24 Packs) — One Piece Card Game, fabrikneu und versiegelt.\n\nDirektimport aus Japan, geprueft.\nVersand aus der Schweiz: doppelt verpackt, versichert und getrackt.",
@@ -582,7 +512,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00078.jpg?v=1779286079",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/DSC00079.jpg?v=1779286083"
     ],
-    "price": "8490",
+    "price": "6890",
     "stock": "18",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -617,7 +547,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/op-13-sealed-case_d7f34ce8-0b74-414d-91c9-bc26aba46623.jpg?v=1780566693"
     ],
-    "price": "149900",
+    "price": "129000",
     "stock": "42",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -652,7 +582,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/eb-04-sealed-case_a719f72d-fbec-4c8c-bf93-f045619e20ec.jpg?v=1780566692"
     ],
-    "price": "99900",
+    "price": "84900",
     "stock": "34",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -704,42 +634,6 @@
           "name": "Spiel",
           "value": [
             "One Piece Card Game"
-          ]
-        },
-        {
-          "name": "Sprache",
-          "value": [
-            "Japanisch"
-          ]
-        }
-      ]
-    },
-    "condition": "new"
-  },
-  {
-    "product_id": "58896330817884",
-    "title": "Pokémon M6a – 30th Celebration – Booster Display JP",
-    "description": "Original japanische(s) Booster Display (24 Packs) — Pokémon, fabrikneu und versiegelt.\n\nDirektimport aus Japan, geprueft.\nVersand aus der Schweiz: doppelt verpackt, versichert und getrackt.",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-pk30-30th-celebration-display-front.png?v=1788255600",
-      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-pk30-30th-celebration-booster.png?v=1788255600"
-    ],
-    "price": "24890",
-    "stock": "10",
-    "specification": {
-      "category": "Sammeln & Seltenes / Trading Cards",
-      "product_type": "Sammelkarten",
-      "attributes": [
-        {
-          "name": "Marke",
-          "value": [
-            "The Pokémon Company"
-          ]
-        },
-        {
-          "name": "Spiel",
-          "value": [
-            "Pokémon"
           ]
         },
         {
