@@ -341,7 +341,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-eb05-preorder.png?v=1791485852",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-eb05-front.png?v=1791485849"
     ],
-    "price": "14990",
+    "price": "13990",
     "stock": "8",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
@@ -395,6 +395,44 @@
           "name": "Spiel",
           "value": [
             "One Piece Card Game"
+          ]
+        },
+        {
+          "name": "Sprache",
+          "value": [
+            "Japanisch"
+          ]
+        }
+      ]
+    },
+    "condition": "new"
+  },
+  {
+    "product_id": "57370225377628",
+    "title": "Kurt's Card Care Kit Kartenreinigung TCG",
+    "description": "Kurt's Card Care Kit fuer die professionelle Reinigung und Pflege von Sammelkarten (One Piece, Pokemon und andere TCG).\n\nNeu und originalverpackt.\nVersand aus der Schweiz: versichert und getrackt.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/hg-std-kurts-card-care-kit-kartenreinigung-pflege.jpg?v=1792153635",
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/f1b723cc3bbe52f27fc753d937cad1bf.jpg?v=1776324788",
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade_placeholder_v2_kurts-card-care-kit-kartenreinigung-pflege.png?v=1778796266",
+      "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/41f4a1aa3b7f98cd8010490d68ca5f90.jpg?v=1776324786"
+    ],
+    "price": "5990",
+    "stock": "10",
+    "specification": {
+      "category": "Sammeln & Seltenes / Trading Cards",
+      "product_type": "Sammelkarten",
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "The Pokémon Company"
+          ]
+        },
+        {
+          "name": "Spiel",
+          "value": [
+            "Pokémon"
           ]
         },
         {
@@ -562,7 +600,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/eb-04-sealed-case-v2.jpg?v=1792767454"
     ],
     "price": "84900",
-    "stock": "32",
+    "stock": "34",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
       "product_type": "Sammelkarten",
@@ -635,7 +673,7 @@
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-op18-preorder.png?v=1791485863",
       "https://cdn.shopify.com/s/files/1/0969/9164/1948/files/holygrade-op18-front.png?v=1791485860"
     ],
-    "price": "15990",
+    "price": "13990",
     "stock": "6",
     "specification": {
       "category": "Sammeln & Seltenes / Trading Cards",
